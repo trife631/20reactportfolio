@@ -10,13 +10,14 @@ hope to hear from you soon!
 
 ## Screenshots 
 
-![homepage](https://github.com/trife631/reactportfolioproject20/assets/126350708/49943341-29af-4d7f-9524-7ba1d976b03c)
+![homepage](https://github.com/trife631/20reactportfolio/assets/126350708/fe4b31d1-5143-4c97-af19-cb983e7e0dca)
 
 
-![portfolio](https://github.com/trife631/reactportfolioproject20/assets/126350708/2485118a-874b-4e9d-9054-01a116775c7a)
+![portfolio](https://github.com/trife631/20reactportfolio/assets/126350708/07882578-b350-4f04-ad52-6feddf70901a)
+
+!![contact](https://github.com/trife631/20reactportfolio/assets/126350708/4b386c04-846e-4fd4-af26-c57ff9d04e58)
 
 
-![contact](https://github.com/trife631/reactportfolioproject20/assets/126350708/efb922c9-d0df-400a-a8a7-af3429cda151)
-
+!
 # reactportfoliomod20
 # reactportfoliomod20
