@@ -17,6 +17,4 @@ hope to hear from you soon!
 
 !![contact](https://github.com/trife631/20reactportfolio/assets/126350708/4b386c04-846e-4fd4-af26-c57ff9d04e58)
 
-
-!
 # reactportfoliomod2
