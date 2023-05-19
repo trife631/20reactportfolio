@@ -1,0 +1,22 @@
+.headerNav-container {
+    background-color: rgb(235, 235, 235);
+    
+    height: 100px;
+}
+
+.headerName {
+    background-color: rgb(235, 235, 235);
+    color: #000000;
+    display: flex;
+    align-items: center;
+    font-size: 64px;
+}
+
+.nav-tabs {
+    background-color: rgb(235, 235, 235);
+    justify-content: center;
+}
+
+.nav-item {
+    background-color: rgb(235, 235 235);
+}

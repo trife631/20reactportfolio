@@ -1,0 +1,15 @@
+* {
+    background-color: #ffffff;
+}
+
+.nav-link {
+    color: #d2ded9;
+}
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin: 100px auto 0 auto;
+}
+

@@ -1,0 +1,44 @@
+.card-body {
+    background-color: rgb(180, 180, 180);
+    color: #eeeded;
+}
+
+.card-title {
+    background-color: rgb(235, 235, 235);
+    color: #fafaf7;
+}
+
+.card-text {
+    background-color: white;
+    color: #000000;
+}
+
+.UNCcharlotteimg {
+    width: 25%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    color: #b3b0b0;
+}
+
+.meIMG {
+    max-width: 31%;
+    height: auto;
+}
+
+.imgCard {
+    background-color: rgb(180, 180, 180);
+}
+
+.meImgContainer {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 254, 254);
+}
+
+.imgContainer {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 253, 253);
+    margin-bottom: 25;
+}
+
